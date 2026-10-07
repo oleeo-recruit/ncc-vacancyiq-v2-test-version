@@ -1,0 +1,271 @@
+@media print {
+	
+div.additional {
+    font-size: 5pt;
+    margin: 0;
+    max-height: 50%;
+}
+
+div.global-footer {
+    display: none;
+}
+
+div.scrollUp {
+    display: none;
+}
+
+div.sidebar h2 {
+    display: none;
+}
+
+.fluid-width-video-wrapper {
+    display: none;
+}
+
+a.more-button-bottom.hidden-md {
+    display: none;
+}
+
+a.more-button-inline {
+    display: none;
+}
+
+a.more-button-inline.hidden-lg {
+    display: none;
+}
+
+a.start-button {
+    display: none;
+}
+
+a[href]:after {
+    display: none;
+}
+
+button.btn.btn-default.dropdown-toggle {
+    display: none;
+}
+
+div.application_box {
+    display: none;
+}
+
+div.bootstrap-table {
+    margin: 0;
+    max-height: 80%;
+}
+
+div.clearfix {
+    display: none;
+}
+
+div.clearfix {
+    display: none;
+}
+
+div.col-lg-12 {
+    margin: 0;
+    padding: 0;
+}
+
+div.col-md-4 {
+    float: left;
+    font-size: 14px;
+    padding: 10px;
+    width: 33.3%;
+}
+
+div.col-md-4 {
+    float: left;
+    font-size: 14px;
+    padding: 10px;
+    width: 33.3%;
+}
+
+div.col-md-4 {
+    float: left;
+    font-size: 14px;
+    padding: 10px;
+    width: 33.3%;
+}
+
+div.col-md-8 {
+    margin: 0;
+}
+
+div.col-md-8 ul li {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+div.col-xs-3.col-sm-7 {
+    display: none;
+}
+
+div.col-xs-9.col-lg-8 span {
+    font-size: 10px;
+    width: 80%;
+}
+
+div.col-xs-9.col-sm-5 {
+    display: none;
+}
+
+div.contact_details_large.hidden-md {
+    margin-top: -50px;
+    padding: 40px;
+}
+
+div.content {
+    margin-bottom: -0;
+    max-height: 100%;
+}
+
+div.events {
+    display: none;
+}
+
+div.events h2 {
+    font-size: 14px;
+    margin-top: -20px;
+}
+
+div.location {
+    font-size: 12px;
+}
+
+div.month {
+    width: 100%;
+    margin-top: -20px;
+    page-break-inside: avoid;
+}
+
+div.month p {
+    font-size: auto;
+    line-height: auto;
+}
+
+div.news {
+    display: none;
+}
+
+div.news h2 {
+    font-size: 14px;
+}
+
+div.pull-left.pagination-detail {
+    display: none;
+}
+
+div.social {
+    display: none;
+    float: right;
+    font-size: 0.1em;
+    margin-top: -5px;
+    width: 38%;
+}
+
+div.social h2 {
+    font-size: 14px;
+}
+
+div.socialshare {
+    display: none;
+}
+
+div.time {
+    font-size: 12px;
+}
+
+div.title {
+    font-size: 12px;
+}
+
+div.top-message {
+    display: none;
+}
+
+header.site-header {
+    display: none;
+}
+
+input.form-control {
+    display: none;
+}
+
+input.search_input {
+    display: none;
+}
+
+p {
+    font-size: 12px;
+    line-height: 20px;
+}
+
+span.copyright {
+    display: none;
+}
+
+section#additional, #cookie-message, #sidebar {
+    display:none;
+}
+tbody tr td {
+    font-size: 12px;
+    page-break-inside: avoid;
+}
+
+td a img {
+    display: none;
+}
+
+td.amber {
+    border: 4px dashed #000;
+}
+
+td.dark-green {
+    border: 6px solid #ccc;
+}
+
+td.light-green {
+    border: 6px solid #000;
+}
+
+tr td p {
+    font-size: 12px ;
+    line-height: 20px ;
+    page-break-inside: avoid;
+}
+
+ul li {
+    font-size: 18px;
+    line-height: 20px;
+}
+
+ul.footer_nav li a {
+    display: none;
+}
+
+ul.inthissection {
+    display: none;
+}
+
+ul.pagination {
+    display: none;
+}
+
+ul.pagination.alpha {
+    display: none;
+}
+
+ul.trending_tasks li {
+    width: 45%;
+}
+
+}
+
+
+
+
+ 
+
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */

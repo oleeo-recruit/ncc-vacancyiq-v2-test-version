@@ -1,0 +1,380 @@
+/*Global amendments to bridge BS5 to NCC styles*/
+:root {
+}
+
+
+
+blockquote {
+    margin: revert;
+}
+
+.row.eqh > div > a {
+    flex-grow: 1;
+}
+
+
+@media (min-width: 1400px) {
+    .container, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+        max-width: 1160px;
+    }
+}
+
+/*FROM GRID-MIN-CSS Needs updating classes on the templates to be inline with BS5 best practice. Deprecate below once done */
+
+.hide {
+    display: none !important;
+}
+
+.show {
+    display: block !important;
+}
+
+.invisible {
+    visibility: hidden;
+}
+
+.text-hide {
+    font: 0/0 a;
+    color: transparent;
+    text-shadow: none;
+    background-color: transparent;
+    border: 0;
+}
+
+.hidden {
+    display: none !important;
+}
+
+.affix {
+    position: fixed;
+}
+
+@-ms-viewport {
+    width: device-width;
+}
+
+.visible-xs,
+.visible-sm,
+.visible-md,
+.visible-lg {
+    display: none !important;
+}
+
+.visible-xs-block,
+.visible-xs-inline,
+.visible-xs-inline-block,
+.visible-sm-block,
+.visible-sm-inline,
+.visible-sm-inline-block,
+.visible-md-block,
+.visible-md-inline,
+.visible-md-inline-block,
+.visible-lg-block,
+.visible-lg-inline,
+.visible-lg-inline-block {
+    display: none !important;
+}
+
+
+
+@media (max-width: 767px) {
+    .visible-xs {
+        display: block !important;
+    }
+
+    table.visible-xs {
+        display: table;
+    }
+
+    tr.visible-xs {
+        display: table-row !important;
+    }
+
+    th.visible-xs,
+    td.visible-xs {
+        display: table-cell !important;
+    }
+    .visible-xs-block {
+        display: block !important;
+    }
+    .visible-xs-inline {
+        display: inline !important;
+    }
+    .visible-xs-inline-block {
+        display: inline-block !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .visible-sm {
+        display: block !important;
+    }
+
+    table.visible-sm {
+        display: table;
+    }
+
+    tr.visible-sm {
+        display: table-row !important;
+    }
+
+    th.visible-sm,
+    td.visible-sm {
+        display: table-cell !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .visible-sm-block {
+        display: block !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .visible-sm-inline {
+        display: inline !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .visible-sm-inline-block {
+        display: inline-block !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .visible-md {
+        display: block !important;
+    }
+
+    table.visible-md {
+        display: table;
+    }
+
+    tr.visible-md {
+        display: table-row !important;
+    }
+
+    th.visible-md,
+    td.visible-md {
+        display: table-cell !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .visible-md-block {
+        display: block !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .visible-md-inline {
+        display: inline !important;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .visible-md-inline-block {
+        display: inline-block !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .visible-lg {
+        display: block !important;
+    }
+
+    table.visible-lg {
+        display: table;
+    }
+
+    tr.visible-lg {
+        display: table-row !important;
+    }
+
+    th.visible-lg,
+    td.visible-lg {
+        display: table-cell !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .visible-lg-block {
+        display: block !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .visible-lg-inline {
+        display: inline !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .visible-lg-inline-block {
+        display: inline-block !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .hidden-xs {
+        display: none !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .hidden-sm {
+        display: none !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .hidden-md {
+        display: none !important;
+    }
+}
+
+@media (min-width: 1200px) {
+    .hidden {
+    display: none !important;
+}
+
+}
+
+.visible-print, .visible-print-block {
+    display: none !important;
+}
+
+@media print {
+    .visible-print {
+        display: block !important;
+    }
+
+    table.visible-print {
+        display: table;
+    }
+
+    tr.visible-print {
+        display: table-row !important;
+    }
+
+    th.visible-print,
+    td.visible-print {
+        display: table-cell !important;
+    }
+}
+
+
+@media print {
+    .visible-print-block {
+        display: block !important;
+    }
+}
+
+.visible-print-inline {
+    display: none !important;
+}
+
+@media print {
+    .visible-print-inline {
+        display: inline !important;
+    }
+}
+
+.visible-print-inline-block {
+    display: none !important;
+}
+
+@media print {
+    .visible-print-inline-block {
+        display: inline-block !important;
+    }
+}
+
+@media print {
+    .hidden-print {
+        display: none !important;
+    }
+}
+
+/*BOOTSTRAP TABLE FIXES*/
+
+.bootstrap-table .caret {
+    display:none!important; /*Overriding boostrap-table.css which appears later / deferred. Caret display is now handled natively as ::after pseudo element in BS5+ */
+}
+
+.bootstrap-table .pagination .page-item,
+.bootstrap-table .pagination .page-item.active {
+    background-color: transparent!important;
+    border: none!important;
+}
+/*END OF BOOTSTRAP TABLE FIXES*/
+
+/*Below styles are temporarily in here for testing.. will move to dedicated dashboard-styles.css for NCCDASHBOARD template*/
+#page_body {
+    & ul.promo-boxes
+
+{
+    list-style: none;
+    margin: 0;
+    padding: 0 !important;
+
+
+& li > a {
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    &:hover
+
+{
+    text-decoration: none;
+}
+
+& .card-body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+}
+}
+}
+
+/*End of DASHBOARD styles*/
+
+/*Below styles are temporarily in here for testing.. will move to dedicated event-styles.css for NCCEventArea and NCCEventDetails template*/
+
+.row > div {
+    position: relative;
+}
+
+#page_body .content .events-panel .events-list ul li a .event-list-view-details {
+
+    top: 50%;
+    right: 16px;
+    transform: translateY(-50%);
+}
+
+/*End of EVENT styles*/
+
+    /*Below styles are temporarily in here for testing.. will move to dedicated aurelia-styles.css for NCCAureliaAppFullWidth template*/
+
+    #phase-selection, #application-box {
+    & span.input-group
+
+{
+    display: inline;
+}
+
+}
+
+.school-overview-container.col-md-6 {
+    @media (min-width: 768px) {
+        width: 100%;
+    }
+
+    @media (min-width: 991px) {
+        width: 50%;
+    }
+}

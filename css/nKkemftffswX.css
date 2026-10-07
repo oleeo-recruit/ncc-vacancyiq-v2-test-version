@@ -1,0 +1,390 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/kgSKfXuRIbuh.eot');
+    src: url('../fonts/RlRgDnPglfrH.eot#iefix-r4o6ay') format('embedded-opentype'), url('../fonts/MEDgx208uAI1.woff') format('woff'), url('../fonts/Qu3GGToASIP1.ttf') format('truetype'), url('../images/UM1WjDPVQuBa.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('../fonts/GRCjvy8I5zT0.eot');
+    src: url('../fonts/GRCjvy8I5zT0.eot#iefix') format('embedded-opentype'), url('../fonts/XzOSaUktPp0p.ttf') format('truetype'), url('../fonts/2a1876urbqi7.woff') format('woff'), url('../images/Lhpy3q6AmMdh.svg#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Bin:before {
+	content: "\e600";
+}
+
+.icon-book .path1:before {
+	content: "\e601";
+	color: rgb(45, 137, 49);
+}
+.icon-book .path2:before {
+	content: "\e602";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-book .path3:before {
+	content: "\e603";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-book .path4:before {
+	content: "\e604";
+	margin-left: -1.0625em;
+	color: rgb(0, 80, 46);
+}
+
+.icon-Briefcase .path1:before {
+	content: "\e605";
+	color: rgb(0, 80, 46);
+}
+.icon-Briefcase .path2:before {
+	content: "\e606";
+	margin-left: -1.0625em;
+	color: rgb(45, 137, 49);
+}
+.icon-Briefcase .path3:before {
+	content: "\e607";
+	margin-left: -1.0625em;
+	color: rgb(45, 137, 49);
+}
+
+.icon-Buildings .path1:before {
+	content: "\e608";
+	color: rgb(42, 71, 55);
+}
+.icon-Buildings .path2:before {
+	content: "\e609";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+.icon-Buildings .path3:before {
+	content: "\e60a";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path4:before {
+	content: "\e60b";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path5:before {
+	content: "\e60c";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path6:before {
+	content: "\e60d";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path7:before {
+	content: "\e60e";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path8:before {
+	content: "\e60f";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path9:before {
+	content: "\e610";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path10:before {
+	content: "\e611";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path11:before {
+	content: "\e612";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path12:before {
+	content: "\e613";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path13:before {
+	content: "\e614";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path14:before {
+	content: "\e615";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path15:before {
+	content: "\e616";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Buildings .path16:before {
+	content: "\e617";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+
+.icon-Calendar .path1:before {
+	content: "\e618";
+	color: rgb(0, 80, 46);
+}
+.icon-Calendar .path2:before {
+	content: "\e619";
+	margin-left: -1.0625em;
+	color: rgb(0, 80, 46);
+}
+.icon-Calendar .path3:before {
+	content: "\e61a";
+	margin-left: -1.0625em;
+	color: rgb(45, 137, 49);
+}
+
+.icon-CountryParks .path1:before {
+	content: "\e61b";
+	color: rgb(46, 137, 44);
+}
+.icon-CountryParks .path2:before {
+	content: "\e61c";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+
+.icon-Gritbin:before {
+	content: "\e61d";
+}
+
+.icon-Groupeofpeople .path1:before {
+	content: "\e61e";
+	color: rgb(42, 71, 55);
+}
+.icon-Groupeofpeople .path2:before {
+	content: "\e61f";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-Groupeofpeople .path3:before {
+	content: "\e620";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-Groupeofpeople .path4:before {
+	content: "\e621";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-Groupeofpeople .path5:before {
+	content: "\e622";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+.icon-Groupeofpeople .path6:before {
+	content: "\e623";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+
+.icon-Infomation .path1:before {
+	content: "\e624";
+	color: rgb(46, 137, 44);
+}
+.icon-Infomation .path2:before {
+	content: "\e625";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+
+.icon-Payforit .path1:before {
+	content: "\e626";
+	color: rgb(46, 137, 44);
+}
+.icon-Payforit .path2:before {
+	content: "\e627";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+
+.icon-Person:before {
+	content: "\e628";
+}
+
+.icon-Recycling:before {
+	content: "\e629";
+}
+
+.icon-Road:before {
+	content: "\e62a";
+}
+
+.icon-SchoolClosures .path1:before {
+	content: "\e62b";
+	color: rgb(42, 71, 55);
+}
+.icon-SchoolClosures .path2:before {
+	content: "\e62c";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-SchoolClosures .path3:before {
+	content: "\e62d";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-SchoolClosures .path4:before {
+	content: "\e62e";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-SchoolClosures .path5:before {
+	content: "\e62f";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-SchoolClosures .path6:before {
+	content: "\e630";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-SchoolClosures .path7:before {
+	content: "\e631";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+.icon-SchoolClosures .path8:before {
+	content: "\e632";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+
+.icon-School .path1:before {
+	content: "\e633";
+	color: rgb(46, 137, 44);
+}
+.icon-School .path2:before {
+	content: "\e634";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+.icon-School .path3:before {
+	content: "\e635";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-School .path4:before {
+	content: "\e636";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+.icon-School .path5:before {
+	content: "\e637";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+
+.icon-SpeechBubble .path1:before {
+	content: "\e638";
+	color: rgb(42, 71, 55);
+}
+.icon-SpeechBubble .path2:before {
+	content: "\e639";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+
+.icon-Trafficlights .path1:before {
+	content: "\e63a";
+	color: rgb(46, 137, 44);
+}
+.icon-Trafficlights .path2:before {
+	content: "\e63b";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Trafficlights .path3:before {
+	content: "\e63c";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Trafficlights .path4:before {
+	content: "\e63d";
+	margin-left: -1.0625em;
+	color: rgb(255, 255, 255);
+}
+.icon-Trafficlights .path5:before {
+	content: "\e63e";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+
+.icon-Warning .path1:before {
+	content: "\e63f";
+	color: rgb(46, 137, 44);
+}
+.icon-Warning .path2:before {
+	content: "\e640";
+	margin-left: -1.0625em;
+	color: rgb(42, 71, 55);
+}
+
+.icon-Wheel .path1:before {
+	content: "\e641";
+	color: rgb(42, 71, 55);
+}
+.icon-Wheel .path2:before {
+	content: "\e642";
+	margin-left: -1.0625em;
+	color: rgb(46, 137, 44);
+}
+/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+
+/* ----- BrowseAloud styles ----------*/
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: icomoon !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.icon-Browsealoud-logo-white {
+    font-size: 100pt;
+    margin-left: 3px;
+}
+
+
+    .icon-Browsealoud-logo-white:before {
+        content: "\e900";
+        color: #ed8507;
+    }
+
+/* ----- BrowseAloud styles ----------*/
